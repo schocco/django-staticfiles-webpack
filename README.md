@@ -61,6 +61,8 @@ See the webpack [docs](https://webpack.github.io/docs/multiple-entry-points.html
 
 ## Django Configuration
 
+Install package with `pip install django-staticfiles-webpack` in your projects venv.
+
 ### STATICFILES_STORAGE
 Name of the storage class: `webpack.storage.WebpackHashStorage`
 

@@ -7,7 +7,7 @@ version = '0.1'
 
 setup(
   name = 'django-staticfiles-webpack',
-  packages = ['django-staticfiles-webpack'],
+  packages = ['webpack'],
   version = version,
   description = 'Support for loading Webpack hashed files in Django templates via the static files app.',
   author = 'Rocco Schulz',

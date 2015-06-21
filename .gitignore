@@ -59,4 +59,4 @@ target/
 # IDE
 .idea
 
-.pypirc
+MANIFEST
